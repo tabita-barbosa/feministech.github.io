@@ -1,6 +1,6 @@
 <template>
   <a :href="socialLink" id="social-link" class="social-link" target="_blank">
-    <i :class="fontAwesome" aria-hidden="true"></i>
+    <i :class="fontAwesome"></i>
   </a>
 </template>
 
